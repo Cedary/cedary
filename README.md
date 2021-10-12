@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align = "center">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
+</p>
 
 <!--
 **Cedary/cedary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
